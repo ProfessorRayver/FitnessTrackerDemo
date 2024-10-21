@@ -8,9 +8,9 @@ package com.mycompany.mealtracker;
  *
  * @author User
  */
-public class MealTracker {
+public class mealTrackerMain {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
